@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cambeaudoin/demo-app-47356#readme",
   "dependencies": {
+    "cloudant": "^1.7.1",
     "express": "^4.14.1",
     "vue": "^2.1.10"
   }
